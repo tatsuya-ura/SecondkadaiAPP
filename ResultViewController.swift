@@ -18,7 +18,7 @@ class ResultViewController: UIViewController {
         super.viewDidLoad()
         
         let result:String = name
-        label.text = "名前は\(result)です"
+        label.text = "こんにちは、\(result)さん"
         
         
          // Do any additional setup after loading the view.
